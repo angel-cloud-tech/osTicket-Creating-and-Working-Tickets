@@ -11,7 +11,7 @@ In this last section of the osTicket project, I go through the life cycle of a t
 <br/>
 <br/>
 
-This is a continuation of the [osTicket: Post Installation Configuration](https://github.com/RomainTranchant/OsTicket_Configuration) project.
+This is a continuation of the [osTicket: Post Installation Configuration](https://github.com/angel-cloud-tech/osTicket-Post-Installation-Configuration) project.
 <br />
 
 
